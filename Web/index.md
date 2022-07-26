@@ -7,30 +7,17 @@
 	<title>Dua's Kitchen</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/styles.css">
-<style>
-body {
-	font-size: 16px;
-	color: #fff;
-	background-color: #bb1f44;
-	font-family: 'oxygen' sans-serif;
-	}
 
-/**Header**/
-#header-nav {
-	background-color: #FFFF00;
-	border-radius: 0;
-	border: 0;
-			}
-</style>
 </head>
-<body>
-<header>
+<body style="font-size: 16px; color: #fff; background-color: #bb1f44;font-family: oxygen, sans-serif;">
+
+<Header style="background-color: #FFBF00;border-radius: 0; border: 0;">
 	<nav id="header-nav" class= "navbar navbar-default">
 		<div class="container">
 		</div>
 
 </nav>
-</header>
+</Header>
 
 	<!--jQuery (Bootstrap JS plugins depend on it) -->
 	<script src="js/jquery-2.1.4.min.js"></script>
