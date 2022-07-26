@@ -6,6 +6,7 @@ body {
 }
 /**header-nav**/
 #header-nav {
+	padding: 60px;
 	background-color: #f6b319;
 	border-radius: 0;
 	border: 0;
