@@ -11,13 +11,13 @@
 body {
 	font-size: 16px;
 	color: #fff;
-	background-color: #61122f;
+	background-color: #bb1f44;
 	font-family: 'oxygen' sans-serif;
 	}
 
 /**Header**/
 #header-nav {
-	background-color: #f6b319;
+	background-color: #FFFF00;
 	border-radius: 0;
 	border: 0;
 			}
