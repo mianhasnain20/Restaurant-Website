@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,30 +7,21 @@
 	<title>Dua's Kitchen</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/styles.css">
-	<style>
-		.header {
-  					padding: 60px;
-  					margin: 0px auto;
-  					border-radius: 0;
-  					border: 0;
-					text-align: center;
-				 	background: Yellow;
-					color: white;
-					font-size: 30px;
-}
-	</style>
+	<link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap" rel="stylesheet">
+	<style type="text/css"></style>
+
 </head>
-<body style="font-size: 16px; color: #fff; background-color: #bb1f44;font-family: oxygen, sans-serif;">
-
+<body>
 <Header>
-	
-		<div class="header"></div>
-
+	<nav id="header-nav" class="navbar navbar-default">
+		<div class="container"></div>
+	</nav>
 </Header>
+<p>This website is for a Restaurent</p>
 
-	<!--jQuery (Bootstrap JS plugins depend on it) -->
-	<script src="js/jquery-2.1.4.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/script.js"></script>
+<!--jQuery (Bootstrap JS plugins depend on it) -->
+<script src="js/jquery-2.1.4.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/script.js"></script>
 </body>
 </html>
