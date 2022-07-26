@@ -17,7 +17,7 @@
 		<div class="container"></div>
 	</nav>
 </Header>
-<p>This website is for a Restaurent</p>
+
 
 <!--jQuery (Bootstrap JS plugins depend on it) -->
 <script src="js/jquery-2.1.4.min.js"></script>
