@@ -13,14 +13,14 @@ body {
 	color: #fff;
 	background-color: #61122f;
 	font-family: 'oxygen' sans-serif;
-}
+	}
 
 /**Header**/
 #header-nav {
 	background-color: #f6b319;
 	border-radius: 0;
 	border: 0;
-}
+			}
 </style>
 </head>
 <body>
@@ -28,9 +28,9 @@ body {
 	<nav id="header-nav" class= "navbar navbar-default">
 		<div class="container">
 		</div>
-	</nav>
-</header>>
 
+</nav>
+</header>>
 
 	<!--jQuery (Bootstrap JS plugins depend on it) -->
 	<script src="js/jquery-2.1.4.min.js"></script>
