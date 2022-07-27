@@ -5,10 +5,13 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Dua's Kitchen</title>
-<link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap" rel="stylesheet">
 <style>
-	
+		*  {
+    box-sizing: border-box;
+}
+
 	body {
+	margin: 0;
 	font-size: 16px;
 	color: #fff;
 	background-color: #61122f;
@@ -16,7 +19,10 @@
 }
 	/** header-nav **/
 	#header-nav {
-	padding: 60px;
+	margin-top: 0;
+	margin-left: 0;
+	padding: 10px 0px 0px 0px;
+	margin-right: 0;
 	background-color: #f6b319;
 	border-radius: 0;
 	border: 0;
@@ -28,6 +34,7 @@
 <Header>
 	<nav id="header-nav" class="navbar navbar-default">
 		<div class="container"></div>
+		<p>This is a website</p>
 	</nav>
 </Header>
 </body>
