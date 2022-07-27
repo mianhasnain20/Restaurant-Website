@@ -5,11 +5,24 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Dua's Kitchen</title>
-	<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
-
-
 <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap" rel="stylesheet">
-
+<style>
+	
+	body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
+}
+	/** header-nav **/
+	#header-nav {
+	padding: 60px;
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+	
+</style>
 </head>
 <body>
 <Header>
@@ -17,11 +30,5 @@
 		<div class="container"></div>
 	</nav>
 </Header>
-
-
-<!--jQuery (Bootstrap JS plugins depend on it) -->
-<script src="js/jquery-2.1.4.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/script.js"></script>
 </body>
 </html>
