@@ -28,13 +28,15 @@
 	border: 0;
 }
 	
+	
 </style>
 </head>
 <body>
 <Header>
 	<nav id="header-nav" class="navbar navbar-default">
 		<div class="container"></div>
-		<p>This is a website</p>
+		<img src="my.jpg" width="150px" height="150" margin="10px 15px 10px 0px">
+</div>
 	</nav>
 </Header>
 </body>
