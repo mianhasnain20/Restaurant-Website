@@ -5,39 +5,18 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Dua's Kitchen</title>
-<style>
-		*  {
-    box-sizing: border-box;
-}
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-	body {
-	margin: 0;
-	font-size: 16px;
-	color: #fff;
-	background-color: #61122f;
-	font-family: 'Oxygen', sans-serif;
-}
-	/** header-nav **/
-	#header-nav {
-	margin-top: 0;
-	margin-left: 0;
-	padding: 10px 0px 0px 0px;
-	margin-right: 0;
-	background-color: #f6b319;
-	border-radius: 0;
-	border: 0;
-}
-	
-	
-</style>
 </head>
+
 <body>
 <Header>
-	<nav id="header-nav" class="navbar navbar-default">
-		<div class="container"></div>
-		<img src="my.jpg" width="150px" height="150" margin="10px 15px 10px 0px">
-</div>
+	<nav class="header-nav">
+		<div class="container">
+		<img src="img/my.jpg" alt="Mian Hasnain Ali" height="400" width="300">
+	</div>
 	</nav>
 </Header>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
 </html>
